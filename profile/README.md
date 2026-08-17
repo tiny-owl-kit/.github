@@ -6,8 +6,7 @@ Modern, enterprise-grade **observability platform** for logging, monitoring, and
 
 | Repo                                                                   | Description                                                                                                             |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [tiny-owl-backend](https://github.com/tiny-owl-kit/tiny-owl-backend)   | REST API — Node.js / Express / TypeScript / MongoDB. JWT auth, HMAC-SHA256 event ingestion, full audit logging.         |
-| [tiny-owl-frontend](https://github.com/tiny-owl-kit/tiny-owl-frontend) | Next.js 14 dashboard — project & API key management, admin panel, audit log viewer.                                     |
+|                                                                        |
 | [tiny-owl-js](https://github.com/tiny-owl-kit/tiny-owl-js)             | `@tinyOwlJs/observability` — JavaScript/TypeScript SDK with built-in HMAC signing, timestamp & nonce replay protection. |
 | [tiny-owl-npm-scan](https://github.com/tiny-owl-kit/tiny-owl-npm-scan) | NPM dependency vulnerability scanner.                                                                                   |
 
