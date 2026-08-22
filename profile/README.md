@@ -7,11 +7,11 @@ Modern, enterprise-grade **observability platform** for logging, monitoring, and
 | Repo                                                                   | Description                                                                                                             |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | [tiny-owl-js](https://github.com/tiny-owl-kit/tiny-owl-js)             | `@tinyOwlJs/observability` — JavaScript/TypeScript SDK with built-in HMAC signing, timestamp & nonce replay protection. |
+| [tiny-owl-python](https://github.com/tiny-owl-kit/tiny-owl-python)             | Python SDK observability and event logging with enterprise-grade HMAC security. |
 | [tiny-owl-npm-scan](https://github.com/tiny-owl-kit/tiny-owl-npm-scan) | NPM dependency vulnerability scanner.                                                                                   |
 
 ## SDK Roadmap
 
-🔜 Python
 🔜 PHP
 🔜 Ruby
 🔜 Go
